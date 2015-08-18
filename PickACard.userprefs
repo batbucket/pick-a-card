@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\PickTheColor\Assets\scripts\Color.cs">
+    <Files>
+      <File FileName="..\PickTheColor\Assets\scripts\Inquisitor.cs" Line="16" Column="1" />
+      <File FileName="..\PickTheColor\Assets\scripts\Color.cs" Line="8" Column="1" />
+      <File FileName="..\PickTheColor\Assets\scripts\Word.cs" Line="10" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

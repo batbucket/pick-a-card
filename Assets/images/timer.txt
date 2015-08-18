@@ -1,0 +1,2 @@
+0.4 seconds between cards
+blue -> red -> yellow -> blue
