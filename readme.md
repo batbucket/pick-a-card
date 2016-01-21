@@ -1,6 +1,6 @@
 # Tobias Fate's Pick a Card #
 * A simple game mechanic trainer and simulator for the Champion Twisted "Tobias" Fate in League of Legends written in C# using the Unity engine for Android.
-* This was written primarily as an learning exercise to the Unity engine and Google Play application upload process.
+* This was written primarily as an introductory exercise to the Unity engine and Google Play application upload process.
 * Google Play: https://play.google.com/store/apps/details?id=com.Sharr.PickACard
 * The spell this simulator is replicating is as follows:
 # Pick A Card #
